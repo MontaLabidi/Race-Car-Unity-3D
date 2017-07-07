@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: d240b56244d14e1458829cf74709f624
+timeCreated: 1476635527
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box01
+    100004: bridge_4
+    100006: concrete_bar
+    100008: concrete_bar12
+    100010: concrete_bar14
+    100012: concrete_bar15
+    100014: concrete_bar16
+    100016: concrete_bar18
+    100018: concrete_bar19
+    100020: concrete_bar20
+    100022: Plane01
+    100024: rail
+    100026: Box
+    100028: Box02
+    100030: rail02
+    100032: rail03
+    100034: rail05
+    100036: rail06
+    100038: rail07
+    100040: rail08
+    100042: rail09
+    100044: bridge_05
+    100046: Motorway_2Lane_Bridge1
+    100048: Motorway_2L_Bridge1
+    400000: //RootNode
+    400002: Box01
+    400004: bridge_4
+    400006: concrete_bar
+    400008: concrete_bar12
+    400010: concrete_bar14
+    400012: concrete_bar15
+    400014: concrete_bar16
+    400016: concrete_bar18
+    400018: concrete_bar19
+    400020: concrete_bar20
+    400022: Plane01
+    400024: rail
+    400026: Box
+    400028: Box02
+    400030: rail02
+    400032: rail03
+    400034: rail05
+    400036: rail06
+    400038: rail07
+    400040: rail08
+    400042: rail09
+    400044: bridge_05
+    400046: Motorway_2Lane_Bridge1
+    400048: Motorway_2L_Bridge1
+    2300000: Box01
+    2300002: bridge_4
+    2300004: concrete_bar
+    2300006: concrete_bar12
+    2300008: concrete_bar14
+    2300010: concrete_bar15
+    2300012: concrete_bar16
+    2300014: concrete_bar18
+    2300016: concrete_bar19
+    2300018: concrete_bar20
+    2300020: Plane01
+    2300022: rail
+    2300024: Box
+    2300026: Box02
+    2300028: rail02
+    2300030: rail03
+    2300032: rail05
+    2300034: rail06
+    2300036: rail07
+    2300038: rail08
+    2300040: rail09
+    2300042: bridge_05
+    2300044: Motorway_2Lane_Bridge1
+    2300046: Motorway_2L_Bridge1
+    3300000: Box01
+    3300002: bridge_4
+    3300004: concrete_bar
+    3300006: concrete_bar12
+    3300008: concrete_bar14
+    3300010: concrete_bar15
+    3300012: concrete_bar16
+    3300014: concrete_bar18
+    3300016: concrete_bar19
+    3300018: concrete_bar20
+    3300020: Plane01
+    3300022: rail
+    3300024: Box
+    3300026: Box02
+    3300028: rail02
+    3300030: rail03
+    3300032: rail05
+    3300034: rail06
+    3300036: rail07
+    3300038: rail08
+    3300040: rail09
+    3300042: bridge_05
+    3300044: Motorway_2Lane_Bridge1
+    3300046: Motorway_2L_Bridge1
+    4300000: Box01
+    4300002: bridge_4
+    4300004: concrete_bar
+    4300006: concrete_bar12
+    4300008: concrete_bar14
+    4300010: concrete_bar15
+    4300012: concrete_bar16
+    4300014: concrete_bar18
+    4300016: concrete_bar19
+    4300018: concrete_bar20
+    4300020: Plane01
+    4300022: rail
+    4300024: Box
+    4300026: Box02
+    4300028: rail02
+    4300030: rail03
+    4300032: rail05
+    4300034: rail06
+    4300036: rail07
+    4300038: rail08
+    4300040: rail09
+    4300042: bridge_05
+    4300044: Motorway_2Lane_Bridge1
+    4300046: Motorway_2L_Bridge1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0299999993
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
